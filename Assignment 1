@@ -1,0 +1,16 @@
+public class Main {
+	
+/**
+ * Program that prints "Hello World!"
+ */
+/**
+ * Start program
+ * Print "Hello World!"
+ * End program
+ */
+public static void main(String[] args) { 
+	
+System.out.println("Hello World");
+
+} 
+}
